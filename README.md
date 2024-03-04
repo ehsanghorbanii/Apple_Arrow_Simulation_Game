@@ -51,7 +51,7 @@ cd path/to/your/project
 javac --module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml -d out $(find src -name "*.java")
 java --module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml -cp out com.example.applearrowsimulation.FinalSimulation
 ```
-Replace '/path/to/javafx-sdk-11/lib' with the actual path to your JavaFX SDK library.
+Replace `/path/to/javafx-sdk-11/lib` with the actual path to your JavaFX SDK library.
 ## Usage
 
 - Enter the initial arrow velocity and angle in the designated text fields.
@@ -78,7 +78,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [ehsanoddinghorbani@gmail.com](mailto:ehsanoddinghorbani@gmail.com)
+Ehsan Ghorbani - [ehsanoddinghorbani@gmail.com](mailto:ehsanoddinghorbani@gmail.com)
 
 Project Link: [[https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game.git)
 
@@ -86,8 +86,6 @@ Project Link: [[https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game](h
 
 - Link to Documentation: [Documentation](https://link-to-your-documentation)
 
-
-(https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game)
 
 
 
