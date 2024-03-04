@@ -26,3 +26,60 @@ Clone the repository to your local machine:
 git clone https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game.git
 ```
 Navigate to the project directory:
+
+```sh
+cd AppleArrowSimulation
+```
+
+## Running the Application
+
+### With an IDE
+Open the project in your favorite IDE (such as IntelliJ IDEA, Eclipse, or NetBeans), configure your JavaFX library path, and run the `FinalSimulation` class.
+
+### With Maven
+If you have Maven installed, you can run the application using the following command:
+
+```bash
+mvn clean javafx:run
+```
+
+## With Command Line
+To run the application directly from the command line, use the following commands:
+
+```sh
+cd path/to/your/project
+javac --module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml -d out $(find src -name "*.java")
+java --module-path /path/to/javafx-sdk-11/lib --add-modules javafx.controls,javafx.fxml -cp out com.example.applearrowsimulation.FinalSimulation
+```
+
+## Usage
+
+- Enter the initial arrow velocity and angle in the designated text fields.
+- Press 'Start' to initiate the simulation.
+- Use 'Pause' and 'Resume' to control the simulation as it runs.
+- 'Reset' will clear the current state and prepare for a new trial.
+- The application automatically ends after 5 trials, or you can exit at any time using the 'Exit' button.
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - [ehsanoddinghorbani@gmail.com](mailto:ehsanoddinghorbani@gmail.com)
+
+Project Link: [[https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game.git)](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game)
+
+
+
+
