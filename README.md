@@ -1,4 +1,4 @@
-# AppleArrowSimulation
+# Apple Arrow Simulation
 
 AppleArrowSimulation is a JavaFX-based educational tool that demonstrates projectile motion by simulating an arrow's attempt to hit a moving apple. This application visualizes the concepts of gravity, initial velocity, and angles in a fun and interactive way.
 
