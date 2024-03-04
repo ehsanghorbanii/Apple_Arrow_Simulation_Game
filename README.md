@@ -89,8 +89,11 @@ Project Link: [Apple Arrow Simulation](https://github.com/ehsanghorbanii/Apple_A
 ## Screenshots
 
 ![Initial Setup](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game/assets/103569522/90b02eab-b872-4fd9-87e9-419c78b325cb)
+
 ![During the simulation](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game/assets/103569522/804bb168-5de6-465c-a1c6-cd50a20d084e)
+
 ![During the simulation](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game/assets/103569522/f5475831-22e9-487e-9e40-595df2a0ecdb)
+
 ![Winning situation](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game/assets/103569522/e2dcd4d3-2bff-4d38-b4d3-461aa8eb72fb)
 
 
