@@ -84,7 +84,7 @@ Project Link: [[https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game](h
 
 ## Additional Documentation and Screenshots
 
-- Link to Documentation: [Documentation](Manual)
+- Link to Documentation: [Manual](Manual.pdf)
 
 
 
