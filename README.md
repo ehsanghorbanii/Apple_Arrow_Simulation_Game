@@ -80,7 +80,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Ehsan Ghorbani - [ehsanoddinghorbani@gmail.com](mailto:ehsanoddinghorbani@gmail.com)
 
-Project Link: [[https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game.git)
+Project Link: [Apple Arrow Simulation](https://github.com/ehsanghorbanii/Apple_Arrow_Simulation_Game.git)
 
 ## Additional Documentation and Screenshots
 
